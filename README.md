@@ -1,4 +1,4 @@
-# AI-Powered Social Commerce Platform (MVP)
+# AI-Powered Social Commerce Platform (MVP) Orderly!!!
 
 ## Overview
 This project is an early-stage MVP of a **mobile-first social commerce platform** designed for **growing social sellers** who have outgrown manual order tracking.
